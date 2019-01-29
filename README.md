@@ -1,5 +1,5 @@
 Проект под командной разработкой  
-Некоторые [правила оформления](https://github.com/serykhelena/wr8_2019/blob/development/docs/dev_rules.md)
+Некоторые [правила оформления](https://github.com/Nivoter/tigra_project_for_diplom/blob/develop/docs/dev_rules.md)
 
 
 Полезные ссылки:
