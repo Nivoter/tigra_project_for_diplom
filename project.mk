@@ -1,15 +1,15 @@
 
-PROJECT_MODULES =       
+PROJECT_CSRC 	= main.c	\
+				src/common.c	\
+				src/Odometry.c		\
+				src/steering_wheel.c \
+				src/ADC.c			\	
 
-PROJECT_TESTS   = 
-                       
-PROJECT_CSRC    = src/main.c src/common.c \
-    				$(PROJECT_MODULES) $(PROJECT_TESTS)
 
 
 PROJECT_CPPSRC 	= 
 
-PROJECT_INCDIR	= include tests $(ROSINC)
+PROJECT_INCDIR	= include
 
-PROJECT_LIBS	=  -lm
+PROJECT_LIBS	= -lm
 
